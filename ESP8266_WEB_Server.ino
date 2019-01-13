@@ -1,7 +1,7 @@
 #include "ESP8266WiFi.h"
    
-const char* ssid = "KNEZEVIC"; //Unesite naziv vaše wifi mreže
-const char* password = "034250637"; //Unesite vašu lozinku
+const char* ssid = "ssid"; //Unesite naziv vaše wifi mreže
+const char* password = "password"; //Unesite vašu lozinku
    
 int ledPin = 2; //Pin na kojem se LED dioda nalazi
 
